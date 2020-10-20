@@ -1,6 +1,4 @@
 #Vanshika Shah
-#UCID: vns25
-#Section 003
 
 #! /usr/bin/env python3
 # Echo Client
